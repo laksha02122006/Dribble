@@ -1,5 +1,11 @@
-# Project Responsive Web Design using Bootstrap
-## Date:
+![image](https://github.com/user-attachments/assets/c084ffef-6874-4564-b83f-fcfb0d276b2e)# Project Responsive Web Design using Bootstrap
+## Date: 20/5/25
+
+
+Name:-V.B.Laksha
+
+Reg.no:- 212224220051
+
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
