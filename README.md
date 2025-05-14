@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c084ffef-6874-4564-b83f-fcfb0d276b2e)# Project Responsive Web Design using Bootstrap
+# Project Responsive Web Design using Bootstrap
 ## Date: 20/5/25
 
 
